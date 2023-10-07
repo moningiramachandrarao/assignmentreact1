@@ -11,7 +11,7 @@ class As1 extends Component{
         if(word==null){
             return ;
         }
-        let arr=word.trim().split(" ");
+        var arr=word.trim().split(/\s+/);
         this.setState({
             count:arr.length
         });
