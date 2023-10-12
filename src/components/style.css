@@ -8,19 +8,18 @@ button{
     border:none;
     background-color:#0578fe;
     border-radius:5px ;
-    margin-bottom:10px;
+    margin-bottom:0.25%;
 }textarea{
-    height:200px;
-    width:400px;
+    height:40vh;
+    width:45%;
 }
 .a1{
     margin-top:5%;
     height:70vh;
-    margin-left:10%;
-    margin-right:10%;
-
+    width:60%;
+    margin-left: 20%;
     text-align: center;
   place-self: center;
-    padding-top:2px;
+    padding-top:0.1%;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
